@@ -1,0 +1,18 @@
+# Игнорировать виртуальное окружение
+.venv/
+env/
+.venv/
+# Кэш питона
+__pycache__/
+*.pyc
+*.pyo
+
+# Файлы логов
+*.log
+
+# IDE и системные
+.idea/
+.DS_Store
+
+hugging_face_token.txt
+hugging_face_token.txt

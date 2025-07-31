@@ -1,0 +1,25 @@
+[33mcommit 89688d9f2f0b1af7142cdd6941011da83e7e1638[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Farkhat Amanbekov <farkhat@gmail.com>
+Date:   Thu Jul 31 14:46:11 2025 +0500
+
+    initial commit
+
+ .gitignore             | 4 [32m+++[m[31m-[m
+ hugging_face_token.txt | 1 [31m-[m
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+[33mcommit 960e4d8ca8f87016745a0297e76c5f2aed645a9c[m
+Author: Farkhat Amanbekov <farkhat@gmail.com>
+Date:   Thu Jul 31 14:40:24 2025 +0500
+
+    initial commit
+
+ .gitignore             |  15 [32m+++++++++++++++[m
+ dev-requirements.txt   |   4 [32m++++[m
+ hugging_face_token.txt |   1 [32m+[m
+ image.png              | Bin [31m0[m -> [32m474848[m bytes
+ main.py                |  51 [32m+++++++++++++++++++++++++++++++++++++++++++++++++[m
+ ml.py                  |  29 [32m++++++++++++++++++++++++++++[m
+ requirements.txt       |   9 [32m+++++++++[m
+ translate.py           |  23 [32m++++++++++++++++++++++[m
+ 8 files changed, 132 insertions(+)
